@@ -1,8 +1,9 @@
-# 💼 Portfolio
+# 💼 Backend Developer Portfolio
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=syed-ahmed-dev&color=blueviolet&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/syed-ahmed-dev?label=Follow&style=social)](https://github.com/syed-ahmed-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](your-linkedin-url)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=google-chrome)](your-portfolio-url)
 
@@ -42,6 +43,14 @@ Hi there! I'm a passionate **Backend Developer** with expertise in building high
 ### Frontend
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+### Languages
+
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### Databases
 
@@ -55,6 +64,7 @@ Hi there! I'm a passionate **Backend Developer** with expertise in building high
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 </div>
 
@@ -248,9 +258,31 @@ Enterprise-grade microservices with authentication and user management.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syed-ahmed-dev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syed-ahmed-dev&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syed-ahmed-dev&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=syed-ahmed-dev&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=syed-ahmed-dev&theme=radical&hide_border=true)
 
 </div>
 
@@ -282,6 +314,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/syed-ahmed-dev)
+
+**💬 Let's collaborate and build something amazing together!**
 
 </div>
 
@@ -293,4 +328,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Made with ❤️ by Syed Muhammad Ahmed**
 
-</div>
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsyed-ahmed-dev&label=Visitors&countColor=%23263759&style=flat)](https://visitorbadge.io/status)
+
+</div
