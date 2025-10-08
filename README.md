@@ -4,8 +4,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=syed-ahmed-dev&color=blueviolet&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/syed-ahmed-dev?label=Follow&style=social)](https://github.com/syed-ahmed-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=google-chrome)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/syed-muhammad-ahmed-2236a0251/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=google-chrome)](https://portfolio-six-rho-34.vercel.app/)
 
 **Building scalable, efficient, and robust backend solutions**
 
@@ -326,8 +326,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### ⭐ If you find this helpful, please give it a star!
 
-**Made with ❤️ by Syed Muhammad Ahmed**
+**Made with ❤️ by [Your Name]**
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsyed-ahmed-dev&label=Visitors&countColor=%23263759&style=flat)](https://visitorbadge.io/status)
 
-</div
+</div>
