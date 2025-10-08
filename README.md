@@ -291,6 +291,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### ⭐ If you find this helpful, please give it a star!
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Syed Muhammad Ahmed**
 
 </div>
