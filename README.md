@@ -93,19 +93,26 @@ Enterprise microservices with API Gateway and authentication.
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics & Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=syed-ahmed-dev&show_icons=true&theme=radical&hide_border=true" />
+<!-- GitHub Profile Stats -->
+<a href="https://github.com/syed-ahmed-dev">
+  <img src="https://github-readme-stats.vercel.app/api?username=syed-ahmed-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syed-ahmed-dev&theme=radical&hide_border=true" />
+<!-- Top Languages -->
+<a href="https://github.com/syed-ahmed-dev?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-ahmed-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-ahmed-dev&layout=compact&theme=radical&hide_border=true" />
+<!-- Visitor Badge -->
+<img src="https://visitor-badge.glitch.me/badge?page_id=syed-ahmed-dev" alt="Visitor Badge"/>
 
 </div>
 
@@ -114,8 +121,13 @@ Enterprise microservices with API Gateway and authentication.
 ## 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=syed-ahmed-dev&theme=radical&no-frame=true&row=1&margin-w=10" />
+
+<!-- GitHub Trophies (works 100%) -->
+<img src="https://github-profile-trophy.vercel.app/?username=syed-ahmed-dev&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+
 </div>
+
+
 
 ---
 
