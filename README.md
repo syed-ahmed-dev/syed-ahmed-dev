@@ -41,7 +41,6 @@ Passionate **Backend Developer** focused on building high-performance, secure, a
 
 ---
 ## 🛠️ Tech Stack
-
 <div align="center">
 
 ### Languages
@@ -75,42 +74,38 @@ Passionate **Backend Developer** focused on building high-performance, secure, a
 Full-featured RESTful e-commerce backend with user auth, cart, orders, and payment integration.  
 **Tech:** Laravel, MySQL, JWT, Stripe  
 **Features:** Role-based access, Email notifications, Admin dashboard API  
-- 🔗 [Live Demo](https://your-demo-link) • [Repo](https://github.com/syed-ahmed-dev/ecommerce-api)
+- 🔗 Live Demo: Coming soon  
+- 📂 Repo: Private (will make public soon)
 
 #### 🏆 Real-Time Chat Application (Node.js)
 Scalable chat platform with private/group messaging and file sharing.  
 **Tech:** Node.js, Socket.io, MongoDB, Redis caching  
 **Features:** Online status, Typing indicators, Message history  
-- 🔗 [Live Demo](https://your-demo-link) • [Repo](https://github.com/syed-ahmed-dev/chat-app)
+- 🔗 Live Demo: Coming soon  
+- 📂 Repo: Private (will make public soon)
 
 #### 🏆 Microservices Architecture (NestJS)
 Enterprise-grade system with auth and user management services.  
 **Tech:** NestJS, PostgreSQL, Docker, RabbitMQ  
 **Features:** JWT auth, API Gateway, Role-based permissions  
-- 🔗 [Live Demo](https://your-demo-link) • [Repo](https://github.com/syed-ahmed-dev/nestjs-microservices)
+- 🔗 Live Demo: Coming soon  
+- 📂 Repo: Private (will make public soon)
 
-*(Add more projects here with links for maximum impact! Pin your best repos on GitHub.)*
+*(Pin your best repos on GitHub for extra visibility!)*
 
 ---
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syed-ahmed-dev&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syed-ahmed-dev&theme=dracula&hide_border=true" alt="Streak"/>
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=syed-ahmed-dev&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=syed-ahmed-dev&theme=dracula&hide_border=true" alt="Streak"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-ahmed-dev&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=syed-ahmed-dev&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=syed-ahmed-dev&theme=dracula&no-frame=true&margin-w=4&row=1" alt="Trophies"/>
 </div>
-
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://github.com/syed-ahmed-dev/syed-ahmed-dev/blob/output/github-contribution-grid-snake.svg" alt="Snake"/>
-</div>
-<!-- To generate snake: Add GitHub Action from https://github.com/Platane/snk -->
 
 ---
 ## 🤝 Contributing
