@@ -93,29 +93,39 @@ Production-grade microservices with API Gateway and message queues.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syed-ahmed-dev&show_icons=true&theme=dracula&hide_border=true" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syed-ahmed-dev&theme=dracula&hide_border=true" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-ahmed-dev&layout=compact&theme=dracula&hide_border=true" />
-</div>
-
 ---
-
-## Contact
-
+## 🏆 GitHub Trophies
 <div align="center">
-
-[Email](mailto:ssyedahmed31@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/syed-muhammad-ahmed-2236a0251/)  
-[Portfolio](https://portfolio-six-rho-34.vercel.app/)  
-[GitHub](https://github.com/syed-ahmed-dev)
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=syed-ahmed-dev&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
 </div>
-
 ---
-
-Made by **Syed Muhammad Ahmed**
+## 📊 Contribution Graph
+<div align="center">
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=syed-ahmed-dev&theme=radical&hide_border=true)
+</div>
+---
+## 🤝 Contributing
+Contributions are always welcome! Here's how you can help:
+1. 🍴 Fork the repository
+2. 🔨 Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. 💾 Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. 📤 Push to the branch (`git push origin feature/AmazingFeature`)
+5. 🎉 Open a Pull Request
+---
+## 📝 License
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+---
+## 📫 Contact
+<div align="center">
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ssyedahmed31@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syed-muhammad-ahmed-2236a0251/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://portfolio-six-rho-34.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/syed-ahmed-dev)
+**💬 Let's collaborate and build something amazing together!**
+</div>
+---
+<div align="center">
+### ⭐ If you find this helpful, please give it a star!
+**Made with ❤️ by [Syed Muhammad Ahmed]**
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsyed-ahmed-dev&label=Visitors&countColor=%23263759&style=flat)](https://visitorbadge.io/status)
+</div>
