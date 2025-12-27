@@ -1,6 +1,6 @@
 # 💼 Hi, I'm Syed Muhammad Ahmed 👋
 <div align="center">
-  <img src="[https://your-photo-url.jpg](https://avatars.githubusercontent.com/u/180414670?v=4)" width="200" style="border-radius:50%;" alt="Syed Muhammad Ahmed"/>
+  <img src="https://avatars.githubusercontent.com/u/180414670?v=4" width="200" style="border-radius:50%;" alt="Syed Muhammad Ahmed"/>
   <br/><br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=7F00FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+scalable+APIs+%26+microservices;NestJS+%7C+Laravel+%7C+Node.js+Enthusiast;Turning+complex+problems+into+clean+code" alt="Typing SVG"/>
   <br/><br/>
